@@ -28,4 +28,3 @@ I'm a PhD student at Arizona State University. I research economic interaction a
 
 {% endfor %}
 
-</div>
