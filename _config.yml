@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Me
+name: J. Britt Davis
 
 # Short bio or description (displayed in the header)
 description: A student of websites
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/default.jpg
+avatar: /images/headshot.jpg
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: /images/default.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: test@test.com
+  email: jbdavi18@asu.edu
   facebook:
   flickr:
   github: 
