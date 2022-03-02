@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<img src="/images/headshot.jpg" alt="J. Britt Davis. I'm a PhD student at Arizona State University. I research economic interaction among the ancient Maya of the Belize Valley."/>
+<img src="/images/headshot.jpg" alt="J. Britt Davis. I'm an anthropological archaeologist who is currently a PhD student at Arizona State University. My current research concerns economic interaction among the Preclassic Maya of the Belize Valley."/>
 
-I'm a PhD student at Arizona State University. I research economic interaction among the ancient Maya of the Belize Valley.
+I'm an anthropological archaeologist who is currently a PhD student at Arizona State University. My current research concerns economic interaction among the Preclassic Maya of the Belize Valley.
 
 <hr>
 
